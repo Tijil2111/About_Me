@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Tijil Agrawal</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in India. I am a 8th Grader.\n
+I know 7 Programming Languages :\n
+-> HTML \n
+-> CSS \n
+-> XML \n
+-> PYTHON \n
+-> KOTLIN \n
+-> C# \n
+-> FLUTTER \n
+
+
+-🌱 I’m currently learning- App development for Android with Kotlin \n
+-🏆 I love playing guitar and chess. \n
+-🏆 I am passionate about Science(Especially Physics and Chemistry) , Mathematics and Computer Science(My Career Choice) \n
+I am a person from whom my friends can ask help at any time \n
+    </string>
 </resources>
